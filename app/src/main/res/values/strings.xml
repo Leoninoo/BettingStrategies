@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Betting Strategies</string>
+    <string name="stratName">1X on home outsiders strategy</string>
+    <string name="favorites">My Favorites</string>
+    <string name="strategyMin">A betting strategy that has been successful in the past is the bet on the “double chance” 1X if an outsider plays against a favorite at home. In this case, the “1X” bet brings respectable odds and very interesting profit opportunities.</string>
+    <string name="strategy">A betting strategy that has been successful in the past is the bet on the “double chance” 1X if an outsider plays against a favorite at home. In this case, the “1X” bet brings respectable odds and very interesting profit opportunities.
+
+    You don’t even have to choose and analyze games that contain absolute extremes and obvious class differences with this strategy. So, you don’t necessarily have to bet against Barcelona, Bayern or Juventus as an away team. Here, we would probably move away from the value bets. Even if we opt for teams that are not big outsiders, but are still outsiders according to the odds, we find highly interesting odds between 1.60 and 2.50.
+
+As with all bets, it is important to analyze in advance and not blindly going for any team. You should of course take statistics into account, advance information about injuries and suspensions, as well as the current shape of the teams. The home advantage of the outsider, for whom games in front of their own audience against a “bigger one” also represent a special motivation, should not be underestimated as it brings another small advantage for the home team. Especially when the respective favorite has recently shown itself shaky against “smaller ones”, you can definitely find value in such an outsider bet with double chances.</string>
+    <string name="fav">Favorite</string>
+    <string name="more">More</string>
+    <string name="goMain">Go Home</string>
+</resources>
